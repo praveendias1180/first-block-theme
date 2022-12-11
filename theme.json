@@ -10,5 +10,18 @@
                 }
             ]
         }
-    }
+    },
+    "templateParts": [
+        {
+            "name": "header",
+            "title": "FirstHeader",
+            "area": "header"
+        }
+    ],
+    "customTemplates": [
+        {
+            "name": "hello-title",
+            "title": "Just the Title"
+        }
+    ]
 }

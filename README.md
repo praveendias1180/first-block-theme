@@ -9,3 +9,7 @@ https://developer.wordpress.org/themes/block-themes/
 ## Basic Theme
 
 ![](readme/basic.png)
+
+# Template Editor
+
+![](readme/template-editor.png)
