@@ -13,3 +13,9 @@ https://developer.wordpress.org/themes/block-themes/
 # Template Editor
 
 ![](readme/template-editor.png)
+
+# FirstRed Theme
+
+Add a new file in styles/ directory as a theme option.
+
+![](readme/firstred.png)
